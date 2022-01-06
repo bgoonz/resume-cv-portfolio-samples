@@ -8,11 +8,9 @@
 ## _551-254-5505 | [bryan.guner@gmail.com](mailto:bryan.guner@gmail.com)_
 
 </div>
-<br>
 
----
 
-## ⦿===➤Skills
+## ➤Skills
 
 | Languages:              | JavaScript ES-6, NodeJS, HTML5, CSS3, SCSS, Bash Shell, SQL, MATLAB, Python, C++, Mathematica, JSON                        |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -23,9 +21,8 @@
 | Hosting:                | Heroku, Netlify, Vercel, Wordpress, Cloudfare, AWS, Firebase, Digital Ocean                                                |
 | Operating Systems:      | Linux, Windows (WSL), IOS                                                                                                  |
 
----
 
-## ⦿===➤Projects
+## ➤Projects
 
 **Gatsby** **GraphQL-Blog** **[Live Site |](https://bgoonz-blog.netlify.app/)[GitHub](https://github.com/bgoonz/BGOONZ_BLOG_2.0)**
 
@@ -37,7 +34,6 @@ _**A**_[_**web development blog**_](https://bgoonz-blog.netlify.app/)_**featurin
 - Designed and integrated a set of convenient web-hosted [developer tools](https://bgoonz-blog.netlify.app/docs/tools/) and GUI interfaces.
 - Added interactive content including comments, [video conferencing](https://bgoonz-blog.netlify.app/docs/interact/video-chat/), [data-structure visualization](https://bgoonz-blog.netlify.app/docs/interact/other-sites/), [games](https://bgoonz-blog.netlify.app/docs/interact/) and full text search.
 
----
 
 **Autonomously Triggered Guitar Effects Platform\*\*** [Live Site](https://bgoonz.github.io/Revamped-Automatic-Guitar-Effect-Triggering/)| [GitHub](https://github.com/bgoonz/Revamped-Automatic-Guitar-Effect-Triggering/tree/master/Triggered-Guitar-Effects-Platform)\*\*
 
@@ -66,9 +62,7 @@ _**A**_[_**website**_](https://youtu.be/onquAh1Bl0g)_**for visualizing and pract
 
 <br>
 
----
-
-## ⦿===➤ Experience
+## ➤ Experience
 
 **Product Development Engineer |** [_**Cembre**_](https://www.cembre.com/)_**, Edison, NJ**\_\_|_**Oct 2019 - Mar 2020**
 
@@ -93,7 +87,7 @@ _**An**_[_**app**_](https://bryan-guner.gitbook.io/lambda-labs/navigation/roadma
 
 ---
 
-## ⦿===➤ Education
+## ➤ Education
 
 #### [**Lambda School**](https://www.credly.com/badges/bd145ba3-0f09-42fc-8d1f-a3bc4e0a46b4/public_url) , _**Full Stack Web Development**_
 
